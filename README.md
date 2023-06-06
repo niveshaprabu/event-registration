@@ -408,4 +408,4 @@ color: #141212;
 
 
 ## Result:
-The program to design, to develop and deploy a web application for event registration is complated successfully.
+The program to design, to develop and deploy a web application for event registration is completed successfully.

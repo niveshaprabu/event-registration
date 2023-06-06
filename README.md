@@ -6,28 +6,28 @@ To design, develop and deploy a web application for event registration.
 ## DESIGN STEPS:
 
 ## Step 1:
-create a new frame.
+  create a new frame.
 
 ## Step 2:
-select any one present size of your choice .
+  select any one present size of your choice .
 
 ## Step 3:
-select the shapes you need.
+  select the shapes you need.
 
 ## Step 4:
-Import images as needed.
+  Import images as needed.
 
 ## Step 5:
 create pages based on your need and link them.
 
 ## Step 6:
-Validate the HTML and CSS code.
+  Validate the HTML and CSS code.
 
 ## Step 6:
-Publish the website in the given URL.
+  Publish the website in the given URL.
 
 ## DESIGN:
-Figma
+  Figma
 
 ## PROGRAM :
 ''' Home Page:
